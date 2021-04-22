@@ -88,16 +88,25 @@
 .musicdes{
     color: rgb(26, 46, 59);
     line-height: 1.5em;
+    width: 500px; 
     font-weight: 100;
     font-style: normal;
     font-family: Montserrat;
-    font-size: 25px;
+    font-size: 1.38vw;
     width: 100%;
     text-align: center;
     position: relative;
     top: 70%;
     letter-spacing: -1px;
 }
+
+.musicdeswid{
+    width:80%;
+    text-align: center;
+    margin:auto;
+    position:relative;
+}
+
 #travelbg {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     /*linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),*/
